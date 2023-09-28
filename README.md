@@ -1,2 +1,2 @@
 # Music_store_data_analysis
-This a SQL project to analyze Music Store Data. In this project I solved some basic to advance query to analyze.
+This is a SQL project to analyze Music Store Data. In this project, I used MYSQL and tried to solve some basic to advanced queries to analyze.
